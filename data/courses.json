@@ -1,0 +1,79 @@
+[
+    {
+        "_id": "635b88de0702d5ab63df6c5b",
+        "isTopSales": true,
+        "isNew": true,
+        "isTopRated": false,
+        "price": "$317.79",
+        "picture": "/images/python-programming-course.jpg",
+        "name": "CarlenePython for Beginners: Learn Python Programming",
+        "details": "If you want to learn how to write Python programs like a pro, code python like a boss, solve real-world problems, or automate repetitive and complex tasks, read on.bHello. My name is Jason Cannon and I'm the author of Python Programming for Beginners, Linux for Beginners, and an instructor to thousands of satisfied students. I started my IT career in the late 1990s as a Unix and Linux System Engineer and I'll be sharing my real-world Python programming and coding experience with you throughout this course. By the end of this course you will be able to create Python scripts with ease. You'll learn how to take tedious and repetitious tasks and turn them into programs that will save you time and simplify your life on Linux, Unix, or MAC systems.",
+        "rating": 4.5
+    },
+    {
+        "_id": "635b88def182f13387cfcf55",
+        "isTopSales": true,
+        "isNew": false,
+        "isTopRated": false,
+        "price": "$221.19",
+        "picture": "/images/node-js-course.png",
+        "name": "NodeJS - The Complete Guide",
+        "details": "Node.js is probably THE most popular and modern server-side programming language you can dive into these days! Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes. This course will teach you all of that! From scratch with zero prior knowledge assumed. Though if you do bring some knowledge, you'll of course be able to quickly jump into the course modules that are most interesting to you.",
+        "rating": 4.5
+    },
+    {
+        "_id": "635b88dea183e12e6f3430b5",
+        "isTopSales": true,
+        "isNew": false,
+        "isTopRated": true,
+        "price": "$132.43",
+        "picture": "/images/c-sharp-basic.jpg",
+        "name": "C# Basics for Beginners: Learn C# Fundamentals",
+        "details": "C# is a beautiful cross-platform language that can be used to build variety of applications. With C#, you can build mobile apps (for Windows, Android and iOS), games, web sites and desktop applications. Once you master fundamentals of C# and programming with .NET framework, you'll have lots of options in front of you. You can choose to build mobile apps if you prefer, or you can change job and work as a web developer. As long as you know the fundamentals well, switching to different technology stacks is pretty easy. In this course, Mosh, author of several best-selling C# courses on Udemy, teaches you the fundamentals of C# programming in a clear, concise and step-by-step way. Note only that, but he'll also teach you best practices and shortcuts to help you become a better developer. Every section comes with a few bite-sized video lectures and a quiz or programming exercises. These exercises are carefully chosen from academic and real-world examples to train your 'programming brain'. If you want to be a successful programmer, who has many high-paid job offers and freedom to 'choose', you need to learn how to think like a programmer. And this is what you're going to get out of these exercises. All exercises come with solutions, so you can compare your solutions with Mosh's to find areas for improvement. There are plenty of free tutorials and videos that teach you C# and they are great if all you want to learn is C# constructs. But if you want to learn C# and become a better programmer with a bright future and lots of options, this is the course for you. For every topic, not only will you learn the whats, but you'll also learn the whys, and hows. You'll see common errors that pop up as part of developing applications with C#. Mosh explains these errors in detail, and shows you how to resolve them.",
+        "rating": 4.5
+    },
+    {
+        "_id": "635b88deb1510c394b2e7945",
+        "isTopSales": true,
+        "isNew": false,
+        "isTopRated": false,
+        "price": "$119.48",
+        "picture": "/images/javascript-basic.jpg",
+        "name": "JavaScript Basics for Beginners",
+        "details": "Javascript is the language that modern developers need to know, and know well. Truly knowing Javascript will get you a job, and enable you to build quality web and server applications. NOTE: This course includes information on ECMAScript 6 (ES6) the next version of Javascript! In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems. You will find clarity in the parts that others, even experienced coders, may find weird, odd, and at times incomprehensible. You'll learn the beauty and deceptive power of this language that is at the forefront of modern software development today. This course will cover such advanced concepts as objects and object literals, function expressions, prototypical inheritance, functional programming, scope chains, function constructors (plus new ES6 features), immediately invoked function expressions (IIFEs), call, apply, bind, and more. We'll take a deep dive into the source code of popular frameworks such as jQuery and Underscore to see how you can use your understanding of Javascript to learn (and borrow) from other's good code. Finally, you'll learn the foundations of how to build your own Javascript framework or library. What you'll learn in this course will make you a better Javascript developer, and improve your abilities in AngularJS, NodeJS, jQuery, React, Ember, MongoDB, and all other Javascript-based technologies! Learn to love Javascript, and code in it well. Note: In this course you'll also get downloadable source code. You will often be provided with 'starter'",
+        "rating": 4.5
+    },
+    {
+        "_id": "635b88ded4693f0ff5673948",
+        "isTopSales": false,
+        "isNew": false,
+        "isTopRated": true,
+        "price": "$390.42",
+        "picture": "/images/c-plus-plus.png",
+        "name": "C++: From Beginner to Expert",
+        "details": "Save your precious time by buying this course. You will learn how to program in C++ in a fast and easy way! The total length of the course is over 17 hours! You will learn theory and you will also gain lots of practice. During the course we will write many programs that will make you a great programmer. All of this is presented by a young man who shares his knowledge, so the language used can be easily understood by everyone. The course is designed for those who don't have any prior knowledge about programming. It doesn't matter if you have never written any programs or you have no idea about programming... After my course all of this will change. You will bust the myth that programming is a difficult thing only for the few! After this course you will be able to use the advanced components of the C++ language.",
+        "rating": 4.5
+    },
+    {
+        "_id": "635b88de69dcfc2efed49f3a",
+        "isTopSales": false,
+        "isNew": false,
+        "isTopRated": false,
+        "price": "$295.03",
+        "picture": "/images/java-basic.jpg",
+        "name": "Learn JAVA Programming - Beginner to Master",
+        "details": "The course consists of JAVA features, Java SE Concept of programming are made simple and easy. Every topic is explained with real-life examples. This course is designed to make you familiar with JAVA Programming in detail. By the end of the course you will understand Java extremely well and will be able to build your own Java applications. After completion of the course, you will be as productive as a software developer. The course is taken right from basics to all the features in JAVA. Basic topics like – Methods, Object-Orientation and Inheritance are explained. Features like – Multithreading, AWT, Swing, Collection Framework and Networking are also covered in a detailed manner.",
+        "rating": 4.5
+    },
+    {
+        "_id": "635b88ded468f847d73c5ba9",
+        "isTopSales": false,
+        "isNew": true,
+        "isTopRated": false,
+        "price": "$266.63",
+        "picture": "/images/c-programming.png",
+        "name": "C Programming Bootcamp - The Complete C Language Course",
+        "details": "This course has been optimized to meet the requirements and demands of students who are eager to learn the C Programming Language in the most easy and attractive manner. Including handpicked coding materials and over 100 exercises with full video solutions - this bestseller course is expected to provide you with everything you need to get started (for beginners) as well as provide you with beneficial knowledge if you're working at High-tech industry (especially in the Embedded, Microcontrollers, Cyber, and other domains).",
+        "rating": 4.5
+    }
+]
